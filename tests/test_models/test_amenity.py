@@ -1,4 +1,4 @@
-ontains the TestAmenityDocs classes
+contains the TestAmenityDocs classes
 """
 
 from datetime import datetime
